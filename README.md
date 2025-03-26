@@ -1,4 +1,6 @@
 # SpineGuard - Smart Posture Tracker 🧑‍💼
+![image](https://github.com/user-attachments/assets/4ef6704c-989c-4fdb-a0f2-867e58ad3ee8)
+
 
 ## **Overview** 📊
 SpineGuard is a wearable device designed to help users maintain good posture. It attaches to the user's back and provides real-time alerts when poor posture is detected. The accompanying web app offers personalized feedback, detailed posture analysis, and daily progress tracking.
